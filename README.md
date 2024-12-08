@@ -23,6 +23,21 @@ In essence, you’re combining assignments 2 and 3.
 
 ---
 
+## ❖ Grading ❖
+
+| Item                                                              | Points  |
+|-------------------------------------------------------------------|:-------:|
+| Diamond program works according to instructions                   | `10`    |
+| Diamond solution implemented properly into the Android project    | `10`    |
+| Matrix program works according to instructions                    | `10`    |
+| Matrix solution implemented properly into the Android project     | `10`    |
+| Diamond and Matrix solutions properly embedded in Android project | `10`    |
+| All code is neat and professional                                 | `10`    |
+| All variable naming is logical                                    | `20`    |
+| Code is neat and professional                                     | `20`    |
+
+---
+
 ## ❖ Due ❖
 
 Monday, 16 December 2024, by 10:00 AM.
