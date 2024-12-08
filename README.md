@@ -11,6 +11,18 @@
 
 ---
 
+## ❖ Assignment Description ❖
+
+In the first assignment, you built out the diamond and matrix projects in Kotlin. For the second assignment, you ported the matrix portion of the first assignment to Android. And, for the third assignment, you ported the diamond portion of the first assignment to Android. For this final project, you’ll combine both Android projects from assignments 2 and 3 into a single Android app in which the user is presented with the question, `Which item would you like to render in the app?`, followed by two buttons side-by-side. The first button should read, `Matrix`, while the second button should read, `Diamond`.
+
+Pressing the `Matrix` button should direct the user to enter a number for the size of the matrix, exactly like assignment 2.
+
+Pressing the `Diamond` button should direct the user to enter a number for the size of the diamond, exactly like assignment 3.
+
+In essence, you’re combining assignments 2 and 3.
+
+---
+
 ## ❖ Due ❖
 
 Monday, 16 December 2024, by 10:00 AM.
